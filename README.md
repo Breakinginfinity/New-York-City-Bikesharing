@@ -7,3 +7,4 @@ In this project, NYC Citi Bike data analysis was carried out for the month of Au
 • Manhattan is the most populated borough in New York City as per the maps referring to the top starting and ending locations.
 
 • The number of records was 2,344,224.
+
