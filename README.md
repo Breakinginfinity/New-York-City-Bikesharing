@@ -29,3 +29,5 @@ The bike sharing system analysis of New York City was done to find out how this 
 
 A Tableau story is created using all the relevant data and information of New York City and Des Moines to find out what, why and how a bike sharing program will perform in Des Moines city.
 
+Tableau Story Link:
+https://public.tableau.com/app/profile/aman.verma3885/viz/bikesharing_16610724421610/BikeSharingCompany-ABoom?publish=yes
